@@ -1,7 +1,7 @@
 ### Hi there! You are at Sam's profile. 👋
 
 
-- 🔭 I’m currently working on React Projects as Front End Engineer.
-- 🌱 I’m currently learning Nestjs and GraphQL in depth.
+- 🔭 I’m currently working as a Full Stack Developer.
+- 🌱 I’ve recently gained experienced about monorepos (nx and turborepo).
 - 📫 How to reach me: samtufail726@gmail.com 
-- ⚡ Fun fact: Always learning and improving myself from the people I work with <3 
+- ⚡ Fun fact: Always learning somthing
