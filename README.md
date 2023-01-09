@@ -1,4 +1,6 @@
-### Hi there! You are at Sam's profile. 👋
+### Hello world. 👋
+
+#### I'm Sam Tufail. A Passionate web developer.
 
 
 - 🔭 I’m currently working as a Full Stack Developer.
