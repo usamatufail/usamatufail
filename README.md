@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working on Human Dilemmas<br>👯 I’m looking to collaborate on Nest.js<br>🌱 I’m currently learning Blockchain Technology<br>💬 Ask me about React.js<br>⚡ Fun fact: I Love reading and have completed reading 22 books last year
+# Hi 👋 My name is Sam Tufail
+
+I am a motivated, full stack web and mobile app developer working remotely for last 4 years. I love coding in JS (due to it's diversity in backend, frontned, and mobile applications).
+
+🔭 I’m currently working on Human Dilemmas<br>🌱 I’m currently learning Blockchain Technology<br>💬 Ask me about React.js<br>⚡ Fun fact: I Love reading and have completed reading 22 books last year
 
 
 ## 🌐 Socials:
