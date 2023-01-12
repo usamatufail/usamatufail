@@ -1,4 +1,4 @@
-# Hi 👋 My name is Sam Tufail
+# Hi 👋 I'm Sam..
 
 I am a motivated, full stack web and mobile app developer working remotely for last 4 years. I love coding in JS (due to it's diversity in backend, frontned, and mobile applications).
 
